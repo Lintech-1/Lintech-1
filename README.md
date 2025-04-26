@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 </div>
 
-
+📫 Contact: lintech01@proton.me
 <!--
 **Lintech-1/Lintech-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
